@@ -376,6 +376,43 @@ li{
 	font-size: 20px;
 }
 
+#information{
+	padding: 8%;
+	background-color: #1c1c1c;
+	color: #fff;
+	
+}
+
+#information h4{
+	font-weight: bold;
+	font-size: 30px;
+	color: #fff;
+}
+
+#information p{
+	color: #f4f4f4;
+	padding: 4%;
+}
+
+#information h6{
+	color: #f4f4f4;
+}
+
+#information .section{
+	text-align: left;
+}
+
+#footer{
+	background-color: #363636;
+	padding: 3%;
+}
+
+#footer h4{
+	color: #fff;
+	font-size: 15px;
+}
+
+
 
 
 
